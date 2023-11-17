@@ -1,1 +1,3 @@
-# Live2dExtractorBeta
+# UnityLive2DExtractorBeta
+
+个人测试用
